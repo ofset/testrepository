@@ -3,6 +3,7 @@
 テスト
 変更
 
+<<<<<<< HEAD
 # 見出し1
 ## 見出し2
 ### 見出し3
@@ -106,3 +107,14 @@ https://www.google.co.jp/
 |:--|--:|:--:|
 |align left|align right|align center|
 |a|b|c|
+=======
+## <i class="fa fa-cube" style="font-size:1em;"></i> menu
+* [to header1](#header1)
+* [to header2](#header2)
+
+<!-- some long code -->
+
+[return to menu](#menu)
+### header1
+### header2
+>>>>>>> master
