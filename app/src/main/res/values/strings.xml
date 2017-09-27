@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">LaunchAnimationEx</string>
+    <string name="app_name">List</string>
+
+    <string-array name="help">
+        <item>ヘルプ</item>
+        <item>Q ＆ A</item>
+    </string-array>>
 </resources>
